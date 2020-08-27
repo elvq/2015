@@ -1,5 +1,7 @@
 # 2015
 
+
+MY edit
 ##Lectures
 
 The Lecture slides up to Lecture 1 are in this repository. Just click on the Lectures Folder.
